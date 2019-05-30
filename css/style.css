@@ -580,3 +580,15 @@ a {
 .inner-page .main-footer {
     margin-top: 45px;
 }
+
+.product-photos {
+    width: 460px;
+  
+    min-height: 677px;
+}
+
+.product-info {
+    width: 390px;
+  
+    min-height: 667px;
+}
